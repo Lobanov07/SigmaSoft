@@ -2,6 +2,9 @@
 
 import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -26,9 +29,9 @@ INSTALLED_APPS = [
     "rest_framework",
     "corsheaders",
     "api.apps.ApiConfig",
-    "interactions.apps.ApiConfig",
-    "products.apps.ApiConfig",
-    "recommendations.apps.ApiConfig",
+    "interactions.apps.InteractionsConfig",
+    "products.apps.ProductsConfig",
+    "recommendations.apps.RecommendationsConfig",
 ]
 
 MIDDLEWARE = [
