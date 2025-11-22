@@ -26,9 +26,9 @@ INSTALLED_APPS = [
     "rest_framework",
     "corsheaders",
     "api.apps.ApiConfig",
-    "interactions.apps.ApiConfig",
-    "products.apps.ApiConfig",
-    "recommendations.apps.ApiConfig",
+    "interactions.apps.InteractionsConfig",
+    "products.apps.ProductsConfig",
+    "recommendations.apps.RecommendationsConfig",
 ]
 
 MIDDLEWARE = [
