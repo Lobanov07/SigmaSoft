@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "Грунтовка глубокого проникновения",
+    "category": "White Box",
+    "price": 999.44,
+    "rating": 4.86,
+    "image": "https://picsum.photos/seed/whitebox0/400/400",
+    "description": "Грунтовка глубокого проникновения — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.74
+  },
+  {
+    "id": 2,
+    "title": "Шпатель угловой",
+    "category": "White Box",
+    "price": 1240.76,
+    "rating": 4.61,
+    "image": "https://picsum.photos/seed/whitebox1/400/400",
+    "description": "Шпатель угловой — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.72
+  },
+  {
+    "id": 3,
+    "title": "Грунтовка фасадная",
+    "category": "White Box",
+    "price": 2238.15,
+    "rating": 4.03,
+    "image": "https://picsum.photos/seed/whitebox2/400/400",
+    "description": "Грунтовка фасадная — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.78
+  },
+  {
+    "id": 4,
+    "title": "Профиль стойочный",
+    "category": "White Box",
+    "price": 452.61,
+    "rating": 4.16,
+    "image": "https://picsum.photos/seed/whitebox3/400/400",
+    "description": "Профиль стойочный — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.73
+  },
+  {
+    "id": 5,
+    "title": "Подвес прямой",
+    "category": "White Box",
+    "price": 2327.24,
+    "rating": 3.55,
+    "image": "https://picsum.photos/seed/whitebox4/400/400",
+    "description": "Подвес прямой — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.89
+  },
+  {
+    "id": 6,
+    "title": "Штукатурка цементная",
+    "category": "White Box",
+    "price": 2060.41,
+    "rating": 4.28,
+    "image": "https://picsum.photos/seed/whitebox5/400/400",
+    "description": "Штукатурка цементная — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.75
+  },
+  {
+    "id": 7,
+    "title": "Шпатлёвка стартовая",
+    "category": "White Box",
+    "price": 2245.26,
+    "rating": 3.7,
+    "image": "https://picsum.photos/seed/whitebox6/400/400",
+    "description": "Шпатлёвка стартовая — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.97
+  },
+  {
+    "id": 8,
+    "title": "Клей для гипсокартона",
+    "category": "White Box",
+    "price": 1777.74,
+    "rating": 4.7,
+    "image": "https://picsum.photos/seed/whitebox7/400/400",
+    "description": "Клей для гипсокартона — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.69
+  },
+  {
+    "id": 9,
+    "title": "Наждачная бумага",
+    "category": "White Box",
+    "price": 629.61,
+    "rating": 4.52,
+    "image": "https://picsum.photos/seed/whitebox8/400/400",
+    "description": "Наждачная бумага — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.82
+  },
+  {
+    "id": 10,
+    "title": "Плинтус напольный",
+    "category": "White Box",
+    "price": 995.2,
+    "rating": 4.46,
+    "image": "https://picsum.photos/seed/whitebox9/400/400",
+    "description": "Плинтус напольный — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.72
+  },
+  {
+    "id": 11,
+    "title": "Грунтовка глубокого проникновения",
+    "category": "White Box",
+    "price": 777.89,
+    "rating": 4.04,
+    "image": "https://picsum.photos/seed/whitebox10/400/400",
+    "description": "Грунтовка глубокого проникновения — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.77
+  },
+  {
+    "id": 12,
+    "title": "Штукатурка цементная",
+    "category": "White Box",
+    "price": 2077.07,
+    "rating": 4.8,
+    "image": "https://picsum.photos/seed/whitebox11/400/400",
+    "description": "Штукатурка цементная — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.97
+  },
+  {
+    "id": 13,
+    "title": "Шурупы по гипсокартону",
+    "category": "White Box",
+    "price": 1454.45,
+    "rating": 4.6,
+    "image": "https://picsum.photos/seed/whitebox12/400/400",
+    "description": "Шурупы по гипсокартону — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.77
+  },
+  {
+    "id": 14,
+    "title": "Профиль металлический направляющий",
+    "category": "White Box",
+    "price": 2734.57,
+    "rating": 3.65,
+    "image": "https://picsum.photos/seed/whitebox13/400/400",
+    "description": "Профиль металлический направляющий — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.91
+  },
+  {
+    "id": 15,
+    "title": "Гипсовая смесь для ремонта",
+    "category": "White Box",
+    "price": 2627.66,
+    "rating": 4.01,
+    "image": "https://picsum.photos/seed/whitebox14/400/400",
+    "description": "Гипсовая смесь для ремонта — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.66
+  },
+  {
+    "id": 16,
+    "title": "Поддон для краски",
+    "category": "White Box",
+    "price": 2881.2,
+    "rating": 3.99,
+    "image": "https://picsum.photos/seed/whitebox15/400/400",
+    "description": "Поддон для краски — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.98
+  },
+  {
+    "id": 17,
+    "title": "Шлифовальная сетка",
+    "category": "White Box",
+    "price": 306.56,
+    "rating": 4.93,
+    "image": "https://picsum.photos/seed/whitebox16/400/400",
+    "description": "Шлифовальная сетка — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.82
+  },
+  {
+    "id": 18,
+    "title": "Шпатель стальной",
+    "category": "White Box",
+    "price": 1826.89,
+    "rating": 4.29,
+    "image": "https://picsum.photos/seed/whitebox17/400/400",
+    "description": "Шпатель стальной — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.98
+  },
+  {
+    "id": 19,
+    "title": "Профиль стойочный",
+    "category": "White Box",
+    "price": 2549.38,
+    "rating": 4.25,
+    "image": "https://picsum.photos/seed/whitebox18/400/400",
+    "description": "Профиль стойочный — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.68
+  },
+  {
+    "id": 20,
+    "title": "Виброподвес",
+    "category": "White Box",
+    "price": 828.69,
+    "rating": 4.66,
+    "image": "https://picsum.photos/seed/whitebox19/400/400",
+    "description": "Виброподвес — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.8
+  },
+  {
+    "id": 21,
+    "title": "Пароизоляция",
+    "category": "White Box",
+    "price": 604.34,
+    "rating": 4.5,
+    "image": "https://picsum.photos/seed/whitebox20/400/400",
+    "description": "Пароизоляция — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.71
+  },
+  {
+    "id": 22,
+    "title": "Дюбель-гвоздь",
+    "category": "White Box",
+    "price": 812.33,
+    "rating": 3.65,
+    "image": "https://picsum.photos/seed/whitebox21/400/400",
+    "description": "Дюбель-гвоздь — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.7
+  },
+  {
+    "id": 23,
+    "title": "Поддон для краски",
+    "category": "White Box",
+    "price": 1296.91,
+    "rating": 4.7,
+    "image": "https://picsum.photos/seed/whitebox22/400/400",
+    "description": "Поддон для краски — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.92
+  },
+  {
+    "id": 24,
+    "title": "Валик для покраски",
+    "category": "White Box",
+    "price": 633.08,
+    "rating": 4.28,
+    "image": "https://picsum.photos/seed/whitebox23/400/400",
+    "description": "Валик для покраски — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.69
+  },
+  {
+    "id": 25,
+    "title": "Грунтовка фасадная",
+    "category": "White Box",
+    "price": 2400.06,
+    "rating": 3.55,
+    "image": "https://picsum.photos/seed/whitebox24/400/400",
+    "description": "Грунтовка фасадная — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.84
+  },
+  {
+    "id": 26,
+    "title": "Смесь самовыравнивающаяся",
+    "category": "White Box",
+    "price": 629.23,
+    "rating": 4.93,
+    "image": "https://picsum.photos/seed/whitebox25/400/400",
+    "description": "Смесь самовыравнивающаяся — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.95
+  },
+  {
+    "id": 27,
+    "title": "Миксер-насадка",
+    "category": "White Box",
+    "price": 2820.14,
+    "rating": 4.74,
+    "image": "https://picsum.photos/seed/whitebox26/400/400",
+    "description": "Миксер-насадка — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.62
+  },
+  {
+    "id": 28,
+    "title": "Грунт-эмаль универсальная",
+    "category": "White Box",
+    "price": 2951.62,
+    "rating": 4.23,
+    "image": "https://picsum.photos/seed/whitebox27/400/400",
+    "description": "Грунт-эмаль универсальная — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.96
+  },
+  {
+    "id": 29,
+    "title": "Шпатель угловой",
+    "category": "White Box",
+    "price": 1555.85,
+    "rating": 3.59,
+    "image": "https://picsum.photos/seed/whitebox28/400/400",
+    "description": "Шпатель угловой — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.69
+  },
+  {
+    "id": 30,
+    "title": "Плинтус напольный",
+    "category": "White Box",
+    "price": 1695.94,
+    "rating": 3.64,
+    "image": "https://picsum.photos/seed/whitebox29/400/400",
+    "description": "Плинтус напольный — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.92
+  },
+  {
+    "id": 31,
+    "title": "Профиль стойочный",
+    "category": "White Box",
+    "price": 2393.46,
+    "rating": 4.88,
+    "image": "https://picsum.photos/seed/whitebox30/400/400",
+    "description": "Профиль стойочный — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.67
+  },
+  {
+    "id": 32,
+    "title": "Строительный миксер",
+    "category": "White Box",
+    "price": 1940.95,
+    "rating": 3.79,
+    "image": "https://picsum.photos/seed/whitebox31/400/400",
+    "description": "Строительный миксер — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.62
+  },
+  {
+    "id": 33,
+    "title": "Пена монтажная",
+    "category": "White Box",
+    "price": 1986.7,
+    "rating": 5.0,
+    "image": "https://picsum.photos/seed/whitebox32/400/400",
+    "description": "Пена монтажная — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.67
+  },
+  {
+    "id": 34,
+    "title": "Шпаклёвка финишная",
+    "category": "White Box",
+    "price": 2978.36,
+    "rating": 4.94,
+    "image": "https://picsum.photos/seed/whitebox33/400/400",
+    "description": "Шпаклёвка финишная — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.93
+  },
+  {
+    "id": 35,
+    "title": "Ведро строительное",
+    "category": "White Box",
+    "price": 803.89,
+    "rating": 4.48,
+    "image": "https://picsum.photos/seed/whitebox34/400/400",
+    "description": "Ведро строительное — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.66
+  },
+  {
+    "id": 36,
+    "title": "Валик для покраски",
+    "category": "White Box",
+    "price": 1983.05,
+    "rating": 3.69,
+    "image": "https://picsum.photos/seed/whitebox35/400/400",
+    "description": "Валик для покраски — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.74
+  },
+  {
+    "id": 37,
+    "title": "Уголок перфорированный",
+    "category": "White Box",
+    "price": 809.26,
+    "rating": 3.84,
+    "image": "https://picsum.photos/seed/whitebox36/400/400",
+    "description": "Уголок перфорированный — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.87
+  },
+  {
+    "id": 38,
+    "title": "Профиль металлический направляющий",
+    "category": "White Box",
+    "price": 442.83,
+    "rating": 4.91,
+    "image": "https://picsum.photos/seed/whitebox37/400/400",
+    "description": "Профиль металлический направляющий — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.88
+  },
+  {
+    "id": 39,
+    "title": "Крестики для плитки",
+    "category": "White Box",
+    "price": 1426.23,
+    "rating": 4.12,
+    "image": "https://picsum.photos/seed/whitebox38/400/400",
+    "description": "Крестики для плитки — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.93
+  },
+  {
+    "id": 40,
+    "title": "Праймер универсальный",
+    "category": "White Box",
+    "price": 1741.79,
+    "rating": 4.63,
+    "image": "https://picsum.photos/seed/whitebox39/400/400",
+    "description": "Праймер универсальный — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.87
+  },
+  {
+    "id": 41,
+    "title": "Валик для покраски",
+    "category": "White Box",
+    "price": 1471.68,
+    "rating": 3.91,
+    "image": "https://picsum.photos/seed/whitebox40/400/400",
+    "description": "Валик для покраски — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.97
+  },
+  {
+    "id": 42,
+    "title": "Пескобетон",
+    "category": "White Box",
+    "price": 1901.03,
+    "rating": 3.87,
+    "image": "https://picsum.photos/seed/whitebox41/400/400",
+    "description": "Пескобетон — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.74
+  },
+  {
+    "id": 43,
+    "title": "Клей для гипсокартона",
+    "category": "White Box",
+    "price": 1871.51,
+    "rating": 4.89,
+    "image": "https://picsum.photos/seed/whitebox42/400/400",
+    "description": "Клей для гипсокартона — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.94
+  },
+  {
+    "id": 44,
+    "title": "Валик для покраски",
+    "category": "White Box",
+    "price": 2160.01,
+    "rating": 3.72,
+    "image": "https://picsum.photos/seed/whitebox43/400/400",
+    "description": "Валик для покраски — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.64
+  },
+  {
+    "id": 45,
+    "title": "Профиль потолочный",
+    "category": "White Box",
+    "price": 2920.74,
+    "rating": 3.6,
+    "image": "https://picsum.photos/seed/whitebox44/400/400",
+    "description": "Профиль потолочный — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.63
+  },
+  {
+    "id": 46,
+    "title": "Шурупы по гипсокартону",
+    "category": "White Box",
+    "price": 994.01,
+    "rating": 4.22,
+    "image": "https://picsum.photos/seed/whitebox45/400/400",
+    "description": "Шурупы по гипсокартону — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.82
+  },
+  {
+    "id": 47,
+    "title": "Шурупы по гипсокартону",
+    "category": "White Box",
+    "price": 1628.82,
+    "rating": 4.03,
+    "image": "https://picsum.photos/seed/whitebox46/400/400",
+    "description": "Шурупы по гипсокартону — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.98
+  },
+  {
+    "id": 48,
+    "title": "Гипсокартон ГКЛ",
+    "category": "White Box",
+    "price": 1752.64,
+    "rating": 4.39,
+    "image": "https://picsum.photos/seed/whitebox47/400/400",
+    "description": "Гипсокартон ГКЛ — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.83
+  },
+  {
+    "id": 49,
+    "title": "Краска интерьерная белая",
+    "category": "White Box",
+    "price": 2190.29,
+    "rating": 4.55,
+    "image": "https://picsum.photos/seed/whitebox48/400/400",
+    "description": "Краска интерьерная белая — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.71
+  },
+  {
+    "id": 50,
+    "title": "Шпатель стальной",
+    "category": "White Box",
+    "price": 2873.01,
+    "rating": 4.92,
+    "image": "https://picsum.photos/seed/whitebox49/400/400",
+    "description": "Шпатель стальной — профессиональный строительный материал для этапа ремонта предчистовой отделки.",
+    "similarity": 0.77
+  }
+]
